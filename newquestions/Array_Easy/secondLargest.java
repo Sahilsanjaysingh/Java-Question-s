@@ -26,3 +26,6 @@ public class secondLargest{
     }
 
 }
+
+
+//the time Complexitycode in O(n)
